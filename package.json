@@ -1,0 +1,14 @@
+{
+  "name": "potato",
+  "version": "1.0.0",
+  "description": "simple study timer based off pomodoro technique ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Mahwish Khan",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^7.1.10"
+  }
+}
